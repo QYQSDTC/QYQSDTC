@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zsh-users/zsh-autosuggestions</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fish-like autosuggestions for zsh</div>
@@ -2609,7 +2609,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zsh-users/zsh-syntax-highlighting</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fish shell like syntax highlighting for Zsh.</div>
@@ -2713,7 +2713,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Sept 2022, 14:12:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Sept 2022, 15:38:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
