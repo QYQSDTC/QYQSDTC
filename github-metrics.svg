@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>neoclide/coc.nvim</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nodejs extension host for vim &amp; neovim, load extensions like VSCode and host language servers.</div>
@@ -2515,7 +2515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gwastro/ml-mock-data-challenge-1</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code and documentation for the first machine learning focused mock data challenge hosted by the Albert-Einstein-Institut Hannover and the Friedrich-Schiller Universität Jena.</div>
@@ -2568,7 +2568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rizsotto/Bear</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bear is a tool that generates a compilation database for clang tooling.</div>
@@ -2621,7 +2621,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>neovim/nvim-lspconfig</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quickstart configs for Nvim LSP</div>
@@ -2725,7 +2725,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Sept 2022, 17:27:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 24 Sept 2022, 18:28:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
