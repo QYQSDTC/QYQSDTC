@@ -2480,7 +2480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mrjbq7/ta-lib</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python wrapper for TA-Lib (http://ta-lib.org/).</div>
@@ -2639,7 +2639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DLR-RM/stable-baselines3</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.</div>
@@ -2743,7 +2743,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Oct 2022, 10:44:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 9 Oct 2022, 12:27:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
