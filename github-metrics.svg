@@ -2457,7 +2457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HandBrake/HandBrake</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HandBrake's main development repository</div>
@@ -2563,7 +2563,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvim-treesitter/nvim-treesitter</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nvim Treesitter configurations and abstraction layer</div>
@@ -2716,7 +2716,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Nov 2022, 19:21:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 4 Nov 2022, 20:52:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
