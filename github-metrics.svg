@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PaddlePaddle/PaddleTS</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Awesome Easy-to-Use Deep Time Series Modeling based on PaddlePaddle, including comprehensive functionality modules like TSDataset, Analysis, Transform, Models, AutoTS, and Ensemble, etc., supporting versatile tasks like time series forecasting, representation learning, and anomaly detection, etc., featured with quick tracking of SOTA deep models.</div>
@@ -2716,7 +2716,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Nov 2022, 17:26:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 10 Nov 2022, 18:27:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
