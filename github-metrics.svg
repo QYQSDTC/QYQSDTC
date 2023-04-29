@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1483" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1499" class="">
     <defs>
         <style/>
     </defs>
@@ -2508,7 +2508,7 @@
                                         <span>starred 9 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">一个万能的 Telegram 番号查询机器人: https://t.me/zh_jav_plus_bot</div>
+                                <div class="field description">一个万能的 Telegram 番号&amp;演员查询收藏机器人: https://t.me/zh_jav_plus_bot</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2607,7 +2607,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2023, 23:18:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Apr 2023, 00:23:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
