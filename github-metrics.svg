@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="423.23443325098697" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="423.23443325098697" y="0" width="29.37933737815324" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.6137706291402" y="0" width="4.318275954629208" height="8" fill="#e16737"/>
-                    <rect mask="url(#languages-bar)" x="456.9320465837694" y="0" width="1.3600070315319774" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.29205361530137" y="0" width="0.7287198064431804" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="459.0207734217446" y="0" width="0.6080683581320863" height="8" fill="#dd1100"/>
-                    <rect mask="url(#languages-bar)" x="459.62884177987667" y="0" width="0.24733920437669993" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.8761809842534" y="0" width="0.12381901574662994" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.0580740504572" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="425.0580740504572" y="0" width="27.92202741513288" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.9801014655901" y="0" width="4.1041047499382755" height="8" fill="#e16737"/>
+                    <rect mask="url(#languages-bar)" x="457.08420621552835" y="0" width="1.2925554959210823" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.37676171144943" y="0" width="0.6925778830302564" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="459.0693395944797" y="0" width="0.5779103195620918" height="8" fill="#dd1100"/>
+                    <rect mask="url(#languages-bar)" x="459.6472499140418" y="0" width="0.23507205518910163" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.8823219692309" y="0" width="0.11767803076912438" height="8" fill="#199f4b"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2487,7 +2487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Starry-Wind/Honkai-Star-Rail</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">崩坏：星穹铁道自动锄大地脚本</div>
@@ -2508,7 +2508,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        629
+                                        631
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2595,7 +2595,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 May 2023, 17:18:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 May 2023, 18:19:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
