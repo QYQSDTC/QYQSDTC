@@ -2335,7 +2335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>v2fly/v2ray-core</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A platform for building proxies to bypass network restrictions.</div>
@@ -2388,7 +2388,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>v2ray/v2ray-core</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A platform for building proxies to bypass network restrictions.</div>
@@ -2441,7 +2441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PauperZ/SSRSpeedN</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">基于SSRSpeed修改，支持同时进行单线程/多线程测速，并可同时进行流媒体解锁状态测试</div>
@@ -2494,7 +2494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tindy2013/stairspeedtest-reborn</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxy performance batch tester based on Shadowsocks(R) and V2Ray</div>
@@ -2602,7 +2602,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 May 2023, 19:15:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 May 2023, 20:38:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
