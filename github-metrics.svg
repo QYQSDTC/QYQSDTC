@@ -2335,7 +2335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>toeverything/AFFiNE</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</div>
@@ -2388,7 +2388,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shiyutim/tickets</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">大麦网演唱会抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。</div>
@@ -2441,7 +2441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RookieTree/DaMaiHelper</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">大麦抢票辅助</div>
@@ -2597,7 +2597,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Sept 2023, 13:17:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Sept 2023, 14:23:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
