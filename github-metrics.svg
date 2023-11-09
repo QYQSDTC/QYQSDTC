@@ -2592,7 +2592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iptv-org/iptv</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of publicly available IPTV channels from all over the world</div>
@@ -2739,7 +2739,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thuml/iTransformer</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is the official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".</div>
@@ -2850,7 +2850,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Nov 2023, 22:17:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2023, 23:19:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
